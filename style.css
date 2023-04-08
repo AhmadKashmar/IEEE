@@ -25,7 +25,8 @@ a {
 	background-image: linear-gradient(rgba(36, 93, 156, 0.25), rgba(36, 93, 156, 0.25)), url("BG.jpeg");
 	background-position: center;
 	background-size: cover;
-	overflow: scroll;
+	overflow-y: scroll;
+	overflow-x: hidden;
 }
 
 div.Logo {
@@ -210,16 +211,12 @@ footer div {
 		background-image: linear-gradient(rgba(36, 93, 156, 0.25), rgba(36, 93, 156, 0.25)), url("BG.jpeg");
 		background-position: center;
 		background-size: 100%;
-		overflow: scroll;
+		overflow-y: scroll;
 	}
 
 	.Divs {
 		display: flex;
 		flex-direction: column;
-	}
-
-	.BG {
-		overflow: scroll;
 	}
 
 	.burger {
