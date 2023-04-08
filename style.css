@@ -22,7 +22,7 @@ a {
 .BG {
 	width: 100%;
 	height: 100vh;
-	background-image: linear-gradient(rgba(36, 93, 156, 0.25), rgba(36, 93, 156, 0.25)), url("BG.jpeg");
+	background-image: linear-gradient(rgba(36, 93, 156, 0.45), rgba(36, 93, 156, 0.25)), url("BG.jpeg");
 	background-position: center;
 	background-size: cover;
 	overflow-y: scroll;
@@ -208,7 +208,7 @@ footer div {
 	.BG {
 		width: 100%;
 		height: 100vh;
-		background-image: linear-gradient(rgba(36, 93, 156, 0.25), rgba(36, 93, 156, 0.25)), url("BG.jpeg");
+		background-image: linear-gradient(rgba(36, 93, 156, 0.45), rgba(36, 93, 156, 0.25)), url("BG.jpeg");
 		background-position: center;
 		background-size: cover;
 		overflow-y: scroll;
