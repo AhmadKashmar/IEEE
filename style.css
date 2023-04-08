@@ -228,6 +228,9 @@ footer div {
 		position: absolute;
 		right: 0%;
 		top: 1%;
+		background-color: white;
+		padding: 1%;
+		border-radius: 100%;
 	}
 
 	div.Logo {
