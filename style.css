@@ -253,6 +253,7 @@ footer div {
 		top: 0px;
 		transform: translateX(-15%);
 		transition: 0.5s;
+		overflow-x: hidden;
 	}
 
 	div.NavBar nav ul li {
